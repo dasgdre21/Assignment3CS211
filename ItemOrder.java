@@ -25,5 +25,4 @@ public class ItemOrder {
 	public Item getItem() {
 		return this.item;
 	}
-
 }
