@@ -1,10 +1,10 @@
-
 /*
- * Dream Dasgupta
+ * Dream
  * 4/24/20
  * CS 211 - Assignment 3
  * ShoppingCart class stores info about overall order
  */
+
 import java.util.*;
 
 public class ShoppingCart {
