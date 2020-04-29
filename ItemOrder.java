@@ -1,9 +1,10 @@
 /*
- * Dream Dasgupta
+ * Dream
  * 4/24/20
  * CS 211 - Assignment 3
  * ItemOrder class stores info about particular item and its quantity
  */
+
 public class ItemOrder {
 	// fields
 	private Item item;
