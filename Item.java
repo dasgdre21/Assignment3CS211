@@ -1,10 +1,10 @@
-
 /*
- * Dream Dasgupta
+ * Dream
  * 4/24/20
  * CS 211 - Assignment 3
  * Item class stores info about the individual items
  */
+
 import java.text.NumberFormat;
 
 public class Item {
