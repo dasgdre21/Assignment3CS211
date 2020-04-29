@@ -1,10 +1,10 @@
-
 /*
  * Dream
  * 4/24/20
  * CS 211 - Assignment 3
  * Catalog class stores info about collection of Items
  */
+
 import java.util.*;
 
 public class Catalog {
